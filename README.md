@@ -1,2 +1,8 @@
-# maximo
-The vegetarian house website redesigned to be nicer.
+# Vegetarian House Remix
+
+- Install Bulma or Bootstrap 4
+
+- Make the site beautiful 
+
+- Use Yarn 
+
