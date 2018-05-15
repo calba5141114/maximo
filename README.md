@@ -1,2 +1,2 @@
 # maximo
-Yuh
+The vegetarian house website redesigned to be nicer.
